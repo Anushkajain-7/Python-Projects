@@ -22,7 +22,7 @@ No additional installation steps are required beyond installing Python and Tkint
 
 ### Running the Projects
 
-Navigate to the directory of the project you want to run (`tic_tac_toe` or `to_do_list`), then execute the main Python file.
+Navigate to the directory of the project you want to run, then execute the main Python file.
 
 ### Features
 
