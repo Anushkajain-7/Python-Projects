@@ -9,6 +9,7 @@ Explore my interactive Python projects built with Tkinter:
 - **Tic-Tac-Toe Game**: Play the classic game of Tic-Tac-Toe with a graphical interface.
 - **To-Do List Application**: Manage your tasks easily with this simple to-do list manager.
 - **Stone-Paper-Scissors game**: Play the classic game of Stone-Paper-Scissors with a graphical interface.
+- **Calculator**: Manage to do simple mathematic calculations. 
 
 ## 🚀 Getting Started
 
