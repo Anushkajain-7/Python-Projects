@@ -10,6 +10,7 @@ Explore my interactive Python projects built with Tkinter:
 - **To-Do List Application**: Manage your tasks easily with this simple to-do list manager.
 - **Stone-Paper-Scissors game**: Play the classic game of Stone-Paper-Scissors with a graphical interface.
 - **Calculator**: Manage to do simple mathematic calculations. 
+- **Auto-login-bot**: Automates the login process for websites.
 
 ## 🚀 Getting Started
 
